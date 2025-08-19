@@ -1,4 +1,5 @@
-## Hi there 👋, I'm Priscilla Kumah.
+## Hi there 👋, Welcome to my **Github Profile**
+I'm Priscilla Kumah
 
 🌱 I’m currently learning **Backend Development**  
 💻 Exploring **Python, Django, Database, and REST APIs**  
