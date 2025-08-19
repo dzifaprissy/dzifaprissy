@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I'm Priscilla Kumah.
 
-<!--
-**dzifaprissy/dzifaprissy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Backend Development**  
+💻 Exploring **Python, Django, Database, and REST APIs**  
+🛠️ Interested in **Systems Admiminstation & DevOps**  
+📚 Always curious about **building secure, scalable solutions**
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack 
+- Languages: Python 
+- Frameworks: Django   
+- Databases: MySQL   
+- Tools: Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking to collaborate on beginner-friendly backend projects and Python-based applications.
+
+**Let’s Connect**
+- Email: prissydzifa653@gmail.com
